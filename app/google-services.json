@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480244734645",
+    "project_id": "rentalsystem-24c6c",
+    "storage_bucket": "rentalsystem-24c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480244734645:android:eb3e23d53608746ba93cfc",
+        "android_client_info": {
+          "package_name": "com.example.rentalsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTgZL7_oqwMJufG1md0uRsKp1Qu54X94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
